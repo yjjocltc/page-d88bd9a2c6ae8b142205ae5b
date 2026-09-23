@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "746820f3b28f93cb9b3a71d0",
+  "owner": "yjjocltc",
+  "repo": "page-d88bd9a2c6ae8b142205ae5b",
+  "title": "LINKI",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d88bd9a2c6ae8b142205ae5b",
+      "a": "LINKI",
+      "b": "机场官网线路发布页",
+      "entity": "LINKI",
+      "brand": "LINKI",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fbe2fcdf8ea90c771ea9568a79660f1d5c0d613a10bb82e9f8bfa7edad24acca",
+      "content": {
+        "primary_entity": "LINKI",
+        "keyword1": "LINKI",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "在手机、电脑或路由器上安装对应客户端，导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "客户端与设备",
+          "AI_CLOSING_TEXT": "选好套餐，下载客户端，导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 LINKI",
+          "AI_DESCRIPTION": "，LINKI 提供多档订阅套餐，覆盖从轻度使用到团队协作的不同需求。基础版适合日常浏览，旗舰版增加流量与设备数并针对游戏优化，团队版面向多人共享与企业路由场景。选择时先确认常用设备数量与月流量，再决定按年付或按月付。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FAQ_ANSWER_2": "可以。三档套餐均提供按年付方案，例如旗舰版年付 ¥350，折算后比按月支付更省。",
+          "AI_FAQ_ANSWER_3": "同时在线设备数按套餐区分，基础版 3 台、旗舰版 5 台、团队版 20 台。超出后需先下线其他设备。",
+          "AI_FAQ_ANSWER_4": "按设备选择客户端：手机装移动端应用，电脑装桌面客户端，路由器视固件情况选择支持订阅导入的插件。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_3": "多台设备同时在线怎么算？",
+          "AI_FAQ_QUESTION_4": "如何选择适合自己设备的客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐、设备与周期做出选择。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月实际用量挑选。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三种设备上限，多人共享时优先看团队版。",
+          "AI_FEATURE_TEXT_3": "各档均支持按月与按年付，年付方案折算单价更低。",
+          "AI_FEATURE_TITLE_1": "流量对号入座",
+          "AI_FEATURE_TITLE_2": "设备数量先算清",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "LINKI 是面向跨境访问需求的海外加速器，提供基础版、旗舰版与团队版三档订阅，覆盖不同流量与设备数量。选套餐后按设备安装客户端并导入订阅，即可在手机、电脑或路由器上使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线游戏加速",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与专属权益，选中后进入购买流程。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按流量、设备数量与预算，在基础版、旗舰版、团队版中确定订阅档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐对操作系统与路由器固件的要求，确认设备满足条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅配置，连接节点后开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "LINKI 订阅套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "boddyurdyop.cn",
+    "host": "boddyurdyop.cn"
+  },
+  "file_hashes": {
+    "index.html": "d29de6c7ac8921f376ffafb018de37498f3eb21fc456b67e279b988bad69f62a",
+    "sitemap.xml": "7faa1802c5077640efb9606e1050c4adf3e89e319a5ceb383664bbe7f2b2a325",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b8b5692bbab8abce5a3494f1f3592781034431876d1f0d07f99945dcbf4936c2",
+    "robots.txt": "5d16d41b0557a0607debe43ae934f9e2cfeaa2686b0c41940bbb790a3f4a4941",
+    "80384c2288c27f3ff83a60ec366a7d29.txt": "a19d514c2da777a3365caceaca4e5d32e0f1611b2a80664e8e2e98a9fb86cdfd"
+  },
+  "revision": "67f5fc1de9b5fdfd611b1bb804ff79f48b91be4f562b9143cfd77f33f8f686ed"
+}
